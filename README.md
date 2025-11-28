@@ -1,3 +1,7 @@
+## ESP32: speech recognition by a neural network (TensorFlow Lite)
+
+[![Смотреть видео](https://img.youtube.com/vi/IH22K1WFqjU/0.jpg)](https://www.youtube.com/watch?v=IH22K1WFqjU&list=PLU_7Rgz8DWYv0JW6rDaoBgFMoYYjYjbkv&index=1)
+
 ## BOARDS MANAGER:
 
 esp32 by Espressif Systems: https://github.com/espressif/arduino-esp32
